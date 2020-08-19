@@ -1,7 +1,7 @@
 ## Pneumonia-Classification :
 Pneumonia Classification uisng python, tensorflow, CNN for Chest X-Ray Images (Pneumonia) dataset.
 ## Dataset link :
-[Download](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia}
+[Download](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
 ## Requirement’s:
 ```
